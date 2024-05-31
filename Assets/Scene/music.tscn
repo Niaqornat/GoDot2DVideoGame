@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://ckpqvff0hdkh8"]
+
+[ext_resource type="AudioStream" uid="uid://cmxtxaiowd3b7" path="res://Assets/music/Hotel California (2013 Remaster).mp3" id="1_dj68j"]
+
+[node name="music" type="AudioStreamPlayer2D"]
+stream = ExtResource("1_dj68j")
+autoplay = true
+bus = &"Music"

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cmxtxaiowd3b7"
+path="res://.godot/imported/Hotel California (2013 Remaster).mp3-dcb1742d6700305f5f1dfacbef02b5ef.mp3str"
+
+[deps]
+
+source_file="res://Assets/music/Hotel California (2013 Remaster).mp3"
+dest_files=["res://.godot/imported/Hotel California (2013 Remaster).mp3-dcb1742d6700305f5f1dfacbef02b5ef.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4
